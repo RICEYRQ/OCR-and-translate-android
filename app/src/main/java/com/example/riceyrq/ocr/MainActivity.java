@@ -61,8 +61,8 @@ import okhttp3.Response;
 public class MainActivity extends AppCompatActivity {
 
     String token;
-    final static String AK = "rQw09Zbu38gcGDaVqe1kqDcP";
-    final static String SK = "MORQTv6vvnBx2ufhOIVFY0NK114yTga5";
+    final static String AK = "";
+    final static String SK = "";
     Button take;
     Button find;
     Button getTex;
